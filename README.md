@@ -1,5 +1,5 @@
 # Toontown Cosmic
-Toontown Cosmic for Toontown Corporate Clash
+Toontown Cosmic for Toontown Corporate Clash and Toontown Rewritten
 
 Visit https://contentpacks.net for the latest versions of this Content Pack
 
